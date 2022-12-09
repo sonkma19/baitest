@@ -1,0 +1,15 @@
+@media screen and (max-width: 400px) {
+    .hidden{
+        display: none !important;
+    }
+    .pencils{
+        width: 100% !important;
+    }
+    .pencils > div{
+        flex-direction: row;
+        align-items: center !important;
+    }
+    .mobile-100{
+        width: 100% !important;
+    }
+}
