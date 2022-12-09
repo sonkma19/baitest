@@ -77,7 +77,7 @@ const tabs = () => {
                 </div>
             </div>
             <div className="w-full flex sm:flex-row flex-col bg-gray-100">
-                <div className="col-12 sm:w-1/3 sm:mt-16">
+                <div className="w-full sm:w-1/3 sm:mt-16">
                     <h3 className="font-normal text-lg ml-4 sm:ml-12 mr-1">
                         Graphite Artist Quality Fine Art Drawing and Sketching Pencils Replaceable Nib Pencils.
                     </h3>
